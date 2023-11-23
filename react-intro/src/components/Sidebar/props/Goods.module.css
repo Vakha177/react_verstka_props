@@ -1,0 +1,32 @@
+.image{
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+}
+.contayner{
+    width: 1000px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.button{
+    width: 150px;
+    height: 35px;
+    background-color:#191970;
+    border-radius: 5px;
+    color: white;
+}
+.name{
+    color: lightslategrey;
+}
+.card{
+    display: flex;
+
+}
+.cost1{
+    text-decoration: line-through;
+    color: lightslategrey;
+}

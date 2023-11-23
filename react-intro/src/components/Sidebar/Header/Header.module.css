@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 40px;
+}
+.logo_image {
+    width: 45px;
+}
+.Nav a{
+    text-decoration: none;
+    color: black;
+}
+.ul {
+    list-style-type: none;
+  }
+.Nav text{
+    left: 50px;
+  }
